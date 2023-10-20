@@ -1,2 +1,2 @@
-// afficher hello dear fam
-console.log("hello dear fam");
+// afficher hello fam
+console.log("hello fam");
