@@ -1,1 +1,1 @@
-console.log{"hello fam"} .
+console.log("hello fam")
